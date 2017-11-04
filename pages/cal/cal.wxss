@@ -1,0 +1,45 @@
+.content{
+  height:100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  background-repeat: repeat;
+  padding: 30rpx;
+  background-image: url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1509796161625&di=280192157637696f57155c6bcf03cfe5&imgtype=0&src=http%3A%2F%2Fupload.besoo.com%2Ffile%2F201609%2F16%2F0717522345908.jpg");
+  background-size: cover
+}
+.screen{
+  background-color: blanchedalmond;
+  border-radius: 10px;
+  text-align: right;
+  width: 700rpx;
+  height: 130rpx;
+  line-height: 150rpx;
+ /* margin-right: 10rpx;*/
+  margin-bottom: 30rpx
+}
+.btngroup{
+  display: flex;
+  flex-direction: row
+}
+.item{
+  width: 160rpx;
+  height: 150rpx;
+  margin: 10rpx;
+  text-shadow: 0 1px 1px rgb(0, 0, 0,3);
+  text-align: center;
+  line-height: 150rpx
+}
+.btn1{
+  color: aliceblue;
+  border: solid 1px bisque;
+  border-radius: 10px;
+  background: dimgray;
+}
+.btn2{
+  color: bisque;
+  border: solid 1px bisque;
+  border-radius: 10px;
+  background: dimgray
+}
