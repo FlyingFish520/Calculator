@@ -29,7 +29,7 @@
   <view class="btngroup">
     <view class="item btn2" bindtap="btnClick" id="{{id17}}">0</view>
     <view class="item btn2" bindtap="btnClick" id="{{id18}}">.</view>
-    <view class="item btn2" bindtap="btnClick" id="{{id19}}">log</view>
+    <view class="item btn2" bindtap="log" id="{{id19}}">log</view>
     <view class="item btn2" bindtap="btnClick" id="{{id20}}">=</view>
   </view>
 </view>

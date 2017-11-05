@@ -1,0 +1,20 @@
+.content{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  background-image: url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1510498231&di=ef8277a8be85e8d2e96ada1a01d269a3&imgtype=jpg&er=1&src=http%3A%2F%2Fimg4.duitang.com%2Fuploads%2Fitem%2F201408%2F31%2F20140831220256_FFm8a.png");
+  background-repeat: no-repeat;
+  background-size: cover
+}
+
+.item{
+  width: 90%;
+  line-height: 100rpx;
+  margin-top: 3rpx;
+  border-radius: 3rpx;
+  color: black;
+  border: solid 1px bisque;
+  background: ivory
+}
