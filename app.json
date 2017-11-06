@@ -5,7 +5,7 @@
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
+    "navigationBarBackgroundColor": "ghostwhite",
     "navigationBarTitleText": "飞鱼计算器",
     "navigationBarTextStyle":"black"
   }
